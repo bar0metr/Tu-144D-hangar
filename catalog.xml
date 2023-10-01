@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PropertyList>
+
+
+ <url>https://gitlab.com/femboywings-fgfs/hangar/-/raw/main/catalog.xml</url>
+ <id>com.gitlab.fg_shfsn.hangar</id>
+
+ <version n="1">2020.3.11</version>
+ <version n="2">2020.3.12</version>
+ <version n="3">2020.3.13</version>
+ <version n="4">2020.3.14</version>
+ <version n="5">2020.3.15</version>
+ <version n="6">2020.3.16</version>
+ <version n="7">2020.3.17</version>
+ <version n="8">2020.3.18</version>
+
+
+ <name>Femboy Wings</name>
+ <description>Tu-144D and patched MiG-15</description>
+ <license>assorted</license>
+
+
+ <package>
+
+  <id>Tu-144D</id>
+
+  <name>Tu-144D mod. 09 (1981)</name>
+  <description>Tupolev Tu-144 was the first supersonic airliner. The long-range D variant, first flown on 27 Apr 1978, could get from Mocsow to Khabarovsk in only 4 hours. Seating capacity: 150, practical range: 5700 km. A total of 6 aircraft (including the prototype) were built between 1974 and 1981.</description>
+  <authors>
+   <author n="0">
+    <name>@femboywings</name>
+    <description>FDM, systems, etc.</description>
+   </author>
+   <author n="1">
+    <name>@ShFsn</name>
+    <description>Mach cone, graphical instruments</description>
+   </author>
+   <author n="2">
+    <name>@konsni</name>
+    <description>External view 3D</description>
+   </author>
+  </authors>
+  <maintainers>
+   <maintainer n="0">
+    <name>@femboywings</name>
+    <url>https://gitlab.com/femboywings</url>
+   </maintainer>
+   <maintainer n="1">
+    <name>@ShFsn</name>
+    <url>https://gitlab.com/tigr.tigrov.1977</url>
+   </maintainer>
+  </maintainers>
+  <urls>
+   <home-page>https://gitlab.com/fg_shfsn/tu-144d</home-page>
+   <code-repository>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D</code-repository>
+   <support>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/-/issues</support>
+   <wikipedia>https://en.wikipedia.org/wiki/Tu-144</wikipedia>
+  </urls>
+
+  <localized>
+   <ru>
+    <name>Ту-144Д серии 09 (1981г.)</name>
+    <description>Ту-144 КБ Туполева — первый в мире сверхзвуковой пассажирский самолёт. Дальняя модификация "Д" (первый полёт 27 апр 1978г.) могла добраться из Москвы в Хабаровск всего за 4 часа. Число мест: 150, практическая дальность 5700 км. За 1974-1981. было построено 6 самолётов, включая прототип.</description>
+    <authors>
+     <author n="0">
+      <name>@femboywings</name>
+      <description>Динамика, системы и проч.</description>
+     </author>
+     <author n="1">
+      <name>@ShFsn</name>
+      <description>Конус Маха, графические приборы</description>
+     </author>
+     <author n="2">
+      <name>@konsni</name>
+      <description>Визуальная модель</description>
+     </author>
+    </authors>
+    <maintainers>
+     <maintainer n="0">
+      <name>@femboywings</name>
+      <url>https://gitlab.com/femboywings</url>
+     </maintainer>
+     <maintainer n="1">
+      <name>@ShFsn</name>
+      <url>https://gitlab.com/tigr.tigrov.1977</url>
+     </maintainer>
+    </maintainers>
+    <urls>
+     <home-page>https://gitlab.com/fg_shfsn/tu-144d</home-page>
+     <code-repository>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D</code-repository>
+     <support>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/-/issues</support>
+     <wikipedia>https://ru.wikipedia.org/wiki/Ту-144</wikipedia>
+    </urls>
+   </ru>
+  </localized>
+
+  <preview>
+   <type>panel</type>
+   <splash type="bool">false</splash>
+   <path>gui/Splash/panel/front.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/panel/front.jpg</url>
+  </preview>
+  <preview>
+   <type>panel</type>
+   <splash type="bool">false</splash>
+   <path>gui/Splash/panel/engineer.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/panel/engineer.jpg</url>
+  </preview>
+  <preview>
+   <type>exterior</type>
+   <splash type="bool">true</splash>
+   <path>gui/Splash/exterior/cruise_0.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/exterior/cruise_0.jpg</url>
+  </preview>
+  <preview>
+   <type>exterior</type>
+   <splash type="bool">true</splash>
+   <path>gui/Splash/exterior/cruise_1.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/exterior/cruise_1.jpg</url>
+  </preview>
+  <preview>
+   <type>exterior</type>
+   <splash type="bool">true</splash>
+   <path>gui/Splash/exterior/descent.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/exterior/descent.jpg</url>
+  </preview>
+  <preview>
+   <type>exterior</type>
+   <splash type="bool">true</splash>
+   <path>gui/Splash/exterior/exit.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/exterior/exit.jpg</url>
+  </preview>
+  <preview>
+   <type>exterior</type>
+   <splash type="bool">true</splash>
+   <path>gui/Splash/exterior/landing.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/exterior/landing.jpg</url>
+  </preview>
+  <preview>
+   <type>exterior</type>
+   <splash type="bool">true</splash>
+   <path>gui/Splash/exterior/takeoff.jpg</path>
+   <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/gui/Splash/exterior/takeoff.jpg</url>
+  </preview>
+
+  <tags>
+   <tag>passenger</tag>
+   <tag>tupolev</tag>
+   <tag>1970s</tag>
+   <tag>1980s</tag>
+   <tag>canard</tag>
+   <tag>delta</tag>
+   <tag>experimental</tag>
+   <tag>ifr</tag>
+   <tag>low-wing</tag>
+   <tag>pressurised</tag>
+   <tag>retractable-gear</tag>
+   <tag>supersonic</tag>
+   <tag>tricycle</tag>
+   <tag>jet</tag>
+   <tag>four-engine</tag>
+  </tags>
+
+  <status>early-production</status>
+  <rating>
+   <FDM type="int">4</FDM>
+   <systems type="int">5</systems>
+   <cockpit type="int">3</cockpit>
+   <model type="int">5</model>
+  </rating>
+
+  <dir>Tu-144D</dir>
+
+  <thumbnail>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/raw/main/thumbnail.jpg</thumbnail>
+  <thumbnail-path>thumbnail.png</thumbnail-path>
+
+  <url>https://gitlab.com/fg_shfsn/tu-144d/Tu-144D/-/archive/0.11.63/Tu-144D-0.11.63.zip</url>
+  <revision>0.11.63</revision>
+  <md5>c7e06b9f5007402644dcd74ec63d4eea</md5>
+  <file-size-bytes>40316018</file-size-bytes>
+  <archive-path>Tu-144D-0.11.63</archive-path>
+
+ </package>
+
+
+ <package>
+
+  <id>MiG-15bis</id>
+
+  <name>MiG-15bis (@femboywings patch)</name>
+  <description>
+      This first-generation jet fighter took the West by surprise when
+      it appeared over Korea.  Initially designed to shoot B-29 heavy
+      bombers with a single shell of its massive 37-mm cannon, the
+      MiG-15 also proved a capable dog-fighter, easily outclassing the
+      P-51 Mustang and even the first straight-winged jet fighters and
+      forcing the USAF to rush the F-86 Sabre into combat.  The MiG-15
+      was mass-produced in very large numbers. This aircraft supports
+      the Bombable add-on, so you can fight your friends over
+      multiplayer.
+  </description>
+    <maintainers>
+      <author n="0">
+        <name>Ludovic Brenta</name>
+      </author>
+    </maintainers>
+    <authors>
+      <author n="0">
+        <name>Lee Elliott</name>
+      </author>
+      <author n="1">
+        <name>Victor Slavutinskiy</name>
+      </author>
+      <author n="2">
+        <name>Yurik V. Nikiforoff</name>
+      </author>
+      <author n="3">
+        <name>Ludovic Brenta</name>
+      </author>
+      <author n="4">
+        <name>Andreas Zenner</name>
+      </author>
+      <author n="5">
+        <name>Jüttner Domokos</name>
+        <nick>Rudolf</nick>
+      </author>
+      <author n="6">
+        <name>Michael Danilov</name>
+      </author>
+    </authors>
+  <urls>
+   <home-page>https://gitlab.com/femboywings-fgfs/mig15</home-page>
+   <code-repository>https://gitlab.com/femboywings-fgfs/mig15/MiG-15</code-repository>
+   <support>https://gitlab.com/femboywings-fgfs/mig15/MiG-15/-/issues</support>
+   <wikipedia>https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15</wikipedia>
+  </urls>
+
+  <localized>
+   <ru>
+    <name>МиГ-15бис (патч @femboywings)</name>
+    <description>
+          Реактивный истребитель первого поколения, заставший Запад
+          врасплох своим появлением в небе Кореи. Изначально созданный
+          сбивать одним выстрелом из 37-мм пушки стратегические
+          бомбардировщики B-29, МиГ-15 отлично зарекомендовал себя и
+          в маневренном бою, с лёгкостью одолевая "Мустанги" P-51 и
+          даже первые реактивные истребители, заставив ВВС США
+          поторопиться с применением "Сейбров" F-86. МиГ-15 строился
+          в больших количествах и до сих пор является самым массовым
+          реактивным истребителем в мире.
+          Данный ЛА поддерживает модуль "Bombable".
+    </description>
+   <urls>
+    <home-page>https://gitlab.com/femboywings-fgfs/mig15</home-page>
+    <code-repository>https://gitlab.com/femboywings-fgfs/mig15/MiG-15</code-repository>
+    <support>https://gitlab.com/femboywings-fgfs/mig15/MiG-15/-/issues</support>
+    <wikipedia>https://ru.wikipedia.org/wiki/МиГ-15</wikipedia>
+   </urls>
+   </ru>
+  </localized>
+
+  <preview>
+   <type>panel</type>
+   <splash type="bool">false</splash>
+   <path>Previews/MiG-15bis-panel.png</path>
+   <url>https://gitlab.com/femboywings-fgfs/mig15/MiG-15/raw/main//Previews/MiG-15bis-panel.png</url>
+  </preview>
+  <preview>
+   <type>exterior</type>
+   <splash type="bool">true</splash>
+   <path>Previews/MiG-15bis-exterior.png</path>
+   <url>https://gitlab.com/femboywings-fgfs/mig15/MiG-15/raw/main//Previews/MiG-15bis-exterior.png</url>
+  </preview>
+
+    <tags>
+      <tag>1940s</tag> <!-- first flight in 1947 -->
+      <tag>1950s</tag> <!-- Operational use in the korean war, 1951-1953 -->
+      <tag>coldwar</tag>
+      <tag>combat</tag>
+      <tag>fighter</tag> <!-- famously used against F-86 Sabre -->
+      <tag>interceptor</tag> <!-- the heavy cannons were designed to shoot B-29s down -->
+      <tag>jet</tag>
+      <tag>mikoyan-gurevich</tag>
+      <tag>retractable-gear</tag>
+      <tag>single-engine</tag>
+      <tag>tricycle</tag>
+      <tag>castering-wheel</tag>
+      <tag>low-wing</tag>
+      <tag>t-tail</tag>
+    </tags>
+
+    <status>advanced production</status>
+    <rating>
+      <FDM type="int">4</FDM>
+      <systems type="int">4</systems>
+      <cockpit type="int">4</cockpit>
+      <model type="int">4</model>
+    </rating>
+
+  <dir>MiG-15</dir>
+
+  <thumbnail>https://gitlab.com/femboywings-fgfs/mig15/MiG-15/raw/main/thumbnail.jpg</thumbnail>
+  <thumbnail-path>thumbnail.png</thumbnail-path>
+
+  <url>https://gitlab.com/femboywings-fgfs/mig15/MiG-15/-/archive/2022-08-31/MiG-15-2022-08-31.zip</url>
+  <revision>2022-08-31</revision>
+  <md5>3e80e37e3f42e0656a6cddba46de5473</md5>
+  <file-size-bytes>64406741</file-size-bytes>
+  <archive-path>MiG-15-2022-08-31</archive-path>
+
+ </package>
+
+
+</PropertyList>
